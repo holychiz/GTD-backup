@@ -1,0 +1,228 @@
++STARTUP: overview
++TYP_TODO: NEXT WAITING SOMEDAY PROJECT DONE
++TAGS: { @office(o) @home(h) @shops(s) @library(l)}
++TAGS: { @phone(p) @computer(c) }
++STARTUP: hidestars
+
+* CCNA Certification
+** study ICND2
+* Data Center Engineer Study Plan
+** CCNA Cert						       :@home:@phone:
+** Brocade Associate Cert
+** Network Analyzer study
+** Network Security Cert
+** 
+   
+* Invest Canadian Funds
+** transfer Trimark fund to Scotia iTrade 
+** transfer $$$ to iScotia
+
+* Moving Cnd $$$ to US
+** US-Cnd exchange rate: http://www.accu-rate.ca/index.php
+** Bank draft/Wire
+*** info to process
+**** US bank address, customer home address, account info, SWIFT code
+
+*** Personal visit to bank
+*** Asking family/friends to do the transfer
+
+* Investments
+** Open Roth IRA account
+** R&D most suitable discount brokerage
+*** low fees/commisions
+*** research reports
+*** market data downloads
+*** stock screeners
+*** Fidelity vs TD Ameritrade 
+
+* Kids Blog
+** YoPway topics ideas
+*** Get yourself organize
+*** Choose a career
+*** How to learn
+*** Learn about your body the hard way:
+**** put your body through extreme physical training to learn how it works
+            Training to running a marathon taught me the signals my body is telling me about its conditions, and desire.  So many health experts advise us to "listen to our body", but for years I really don't know what that means. Perhaps you can find a better way, but for me, the vigorous training regime to complete a marathon fine tuned my sense of physical beings.  I became more aware of the sleep signals, patterns, my food cravings and what to eat.  I can pretty much pinpoint the moment when I catch a cold (didn't really want this "superpower", but there it is :) )   
+	    
+*** Care and Feeding of your financial wealth 
+* Goals
+
+** Earn $50,000 by end of 2011 through Internet business
+
+** Travel to VN, Thailand, Spain, Paris, Argentina
+
+** Earn 25% annual return through investment
+
+** Raise $5000 for Bing Nursery
+
+** Name the product
+** Name the company
+* Mom
+** Complete and submit Account Opening w/ Questrade Canada
+*** Notarized  ON driver license
+** DONE Complete and submit Direct Deposit Request for Canadian Old Age, GAINS
+
+* Reading List
+** Cheaper by the Dozen, Belles on their toes: Frank Gilbreth
+** Letters to My Son, Kent Nerburn 
+
+* Develop MUSE business system
+** Biz ideas research:
+*** Reselling Software package
+**** email MS authenticate BuySoftwareCheap and their SQL server line.
+*** Blogs
+**** Productivity
+***** set your PDF reader to dark background
+***** theSage dictionary software
+***** software tools
+***** handyman tools
+***** keyboard shortcuts: Vi, Emacs
+***** Frank Gilbreth's ideas
+**** Fatherly advice
+**** Internet privacy
+**** Rehab houses
+**** Stock trading
+**** weight loss w/ Darryl
+***** register domains, setup WordPress
+**** couple relationship
+**** Vnese foods
+*** Affiliate Marketing Program
+**** tactical gears 
+**** internet privacy: proxy, VPN
+*** website to reviews online printing services
+**** http://online-printing-services-review.toptenreviews.com/
+**** http://www.givemeareview.com/Online-Printing-Services/reviews.html
+**** http://onlineprintreviews.com/
+*** foldable ergonomic keyboard
+**** Product naming:
+     - Rich, Luxury theme
+       * ample keyboard
+       * amble
+       * lush, lavish
+       * sounding : Moet, 
+       * eg. Gucci, Chanel, Apple, Mercedes, 
+     - Healthy, strong theme
+       * wolfberry 
+       * active
+       * bright, fresh
+       * potent
+       * vigor
+     - Portable
+       * compact, convenient
+       * handy
+       * light, airy, lithe, sheer, nimble, 
+       * agile, active athletic, brisk, apt, deft, supple, vivacious, zippy
+       * mobile, nomadic, liquid, motile, roving, roaming, 
+       * sounding: sazzy, 
+     - Tech
+     - Clean
+     - Prestige
+     - 
+**** register website 
+***** name 
+          - need to suggest luxury, keyboard, keypad, ergonomic
+          - possible taglines:
+	    - Ferrari of keyboard
+**** set-up Google AdWord campaign testing
+*** Ergonomic headrest
+*** vTag
+*** money-sized notepad
+    
+*** pdf encryption
+
+*** Auction website for charity
+
+*** Improved universal square
+** Dropship product ideas
+*** Cisco IP phone adapter SPA2102
+*** Android tablets
+** Company names
+*** Tech
+**** fictional characters
+***** Calvin & Hobbes, Asterix&Obelix, Tintin&Snowy,
+**** interesting concepts:
+***** F8 (choose OS on startup)
+**** inspired by admirable people
+***** Sinclair&Forde
+***** Amadeo Pietro Giannini, Bill Waterson
+*** Blogging networks
+*** Trading company
+** Android apps ideas
+*** loudroid.com, simpledroid,simplelittlebot, nexere,driveAt, chanceAt, 
+    - finallyMe,healthilyMe, rodMe, fatherMe, meFather, 
+*** get ideas from Excel calculator templates
+*** construction calculators
+*** anonymizer
+*** Pipe sloping calculator for plumbing, gas, trenching 
+**** Calculate minimum slope required for plumbing
+***** drain, vent 
+*** simple yes/no phone survey
+* Someday/Maybe
+** Learn Digital SLR Photography techniques
+** Earn $250k/year within 5 years 
+** Create study-aid screensaver, model after inRumor screensaver 
+
+** Learn about Option trading strategies
+** R.D le^~ cu'ng o^ng ba` Te^'t 
+** learn guitar tabs:
+*** Everlong
+*** My Hero - Foo Fighters
+** get a better personal web domain
+
+** Register for more Windows Live Spaces 
+
+* Marathon training
+** Marathon Events
+*** SF US Half Marathon, April 10
+*** Big Sur Marathon, May 1
+
+*** Silicon Valley Marathon, Oct 31
+
+*** Los Gatos Jungle Run, July 10
+* Upgrade Computer Skills
+** learn VI & Emacs & Org-mode
+** Set up email on Emacs
+** Printing from Linux to Canon D480 printer
+** Research Linux sync to mobile phones: contacts & calendar
+*** Linux Evolution mail sync to Windows Mobile?
+*** Mobi.org?
+*** get Android phones instead?
+*** Funambol? 
+*** Thunderbird email client?
+*** Thunderbird Lighting for calendar
+** Learn Python
+*** complete FizzBuzz exercise
+** Django
+** Install Conkeror
+
+** test Quicken on Wine
+
+** learn AppInventor Android app builder
+
+* Facebook update
+** Equity Acceleration
+** Like Charlie Sheen, I'm "tired of pretending I'm not special" and you should be too!
+** Don't you hate it when there 2 rows of the gym shower, all open and clear and the hairy dude decided to shower right next to you.  Hey, man, did I wave you over and invite you to shower next to me? no? then stay the f#$%@ away from me.
+
+* Mindsweep
+#+CATEGORY: Tasks
+** WAITING paying Sis 2 back
+*** WAITING Sis 2 to confirm latest payment and remaining balance 
+*** Send cheque to Aunt8
+*** Aunt8 money order to Sis2
+** Learn Google Adsense system
+*** read "Google Adsense" book
+** Clean cars
+** WAITING Call Santa Clara Lib about lost book		       :@home:@phone:
+*** WAITING no action needed, max fine is 6.50. Hopefully someone will return the book eventually
+** Cancel CIBC cheque #409				       :@home:@phone:
+** get clear plastic envelope
+** Borrow books:
+*** Letters to Son
+*** Social Games for kids
+** RD Sensate Focus
+** get duct tapes
+** get battery L1154F button typ				     :@shops:
+** Return automotive stuffs
+
+** R&D IP softphone systems
